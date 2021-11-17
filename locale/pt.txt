@@ -6,7 +6,7 @@
 tour.description = Rua dos Trilhos, 1346 - Mooca, São Paulo - SP, 03168-009
 
 ### Title
-tour.name = Mami Artesanato Mooca
+tour.name = Mami Artesanato Mooca - Tour Virtual 360°
 
 ## Skin
 
